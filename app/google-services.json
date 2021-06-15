@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528966736623",
+    "firebase_url": "https://tasktrimmer.firebaseio.com",
+    "project_id": "tasktrimmer",
+    "storage_bucket": "tasktrimmer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528966736623:android:e21107cc318ff15275591a",
+        "android_client_info": {
+          "package_name": "com.improving.comprojecttasktrimmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528966736623-d1ojtt62qp8di4qri51sknu6rg4uc0fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfw-MaT4gCQ6cyv15UvKQknXn-9jktLGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528966736623-d1ojtt62qp8di4qri51sknu6rg4uc0fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
