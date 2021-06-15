@@ -1,0 +1,2 @@
+rootProject.name='com.Project.TaskTrimmer'
+include ':app'
